@@ -4,7 +4,7 @@ from ..items import FundanlItem
 
 
 class Funl(scrapy.Spider):
-    name = "demo"
+    name = "fun"
     start_urls = [
         'https://www.funda.nl/en/koop/heel-nederland/p1/',
     ]
